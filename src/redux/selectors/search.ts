@@ -1,0 +1,1 @@
+export const artistTagsSelector = (state: any) => state.search.tags
